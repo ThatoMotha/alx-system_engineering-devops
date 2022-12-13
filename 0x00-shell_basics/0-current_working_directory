@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(cd "$cwd"; pwd)
+echo "pwd" > 0-current_working_directory
